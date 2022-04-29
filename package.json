@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@handsontable/vue": "^2.0.0",
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "axios": "^0.16.1",
     "element-ui": "^2.4.5",
     "handsontable": "^5.0.0",
